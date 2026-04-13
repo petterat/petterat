@@ -35,7 +35,7 @@ I'm a **Lead Detection Engineer** at [Atea](https://www.atea.com), one of Europe
 | Area | Description |
 |---|---|
 | 🎯 **Threat Detection** | Building and tuning detection rules across Sentinel & Splunk to identify real threats with high fidelity |
-| 🏗️ **Detection as Code** | Owning the full DaC pipeline — from rule authoring to automated deployment via GitHub Actions & Terraform |
+| 🏗️ **Detection as Code** | Owning the full DaC pipeline — from rule authoring to automated deployment |
 | 🔬 **Threat Research** | Continuously studying new TTPs, attacker tooling, and emerging threat actors to inform detection strategy |
 | 🤖 **Automation & SOAR** | Designing Tines playbooks for automated response, triage, and enrichment to reduce analyst toil |
 | 🤝 **Collaboration** | Working with SOC analysts, IR teams, and business stakeholders to align our blue team posture |
