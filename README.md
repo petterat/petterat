@@ -1,17 +1,13 @@
 <h1 align="center">Hey there, I'm Peter 👋</h1>
 <h3 align="center">Lead Detection Engineer · Blue Team · Detection as Code</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Lead+Detection+Engineer+%40+Atea;Threat+Research+%26+Detection+Building;Detection+as+Code+%7C+GitHub+Actions+%7C+Terraform;Microsoft+Sentinel+%7C+Splunk+%7C+Tines;Always+learning%2C+always+improving" alt="Typing SVG" />
-</p>
-
 ---
 
 ## 🛡️ About Me
 
 I'm a **Lead Detection Engineer** at [Atea](https://www.atea.com), one of Europe's leading IT infrastructure companies. My mission is to build, maintain, and continuously improve cyber threat detection coverage — for both Atea and our customers.
 
-- 🔭 I create and own our **Detection as Code** pipelines for Microsoft Sentinel and Splunk, running on **GitHub Actions** with **Terraform**
+- 🔭 I create and own our **Detection as Code** pipelines for Microsoft Sentinel and Splunk.
 - 🧠 Constantly researching **emerging threats**, attacker methodologies, and new technologies to keep detection coverage sharp
 - 🤝 I collaborate closely with **incident responders**, **SOC analysts**, and business stakeholders to align detection strategy with real-world risk
 - ⚡ I automate everything that *can* be automated — ensuring our work stays high-value, consistent, and efficient
@@ -60,10 +56,4 @@ I'm a **Lead Detection Engineer** at [Atea](https://www.atea.com), one of Europe
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=petterat&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies"/>
-</p>
-
----
-
-<p align="center">
-  <i>"Detection is only as good as the knowledge and curiosity behind it."</i>
 </p>
