@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm Peter 👋</h1>
+<h1 align="center">Hey there, I'm Petter 👋</h1>
 <h3 align="center">Lead Detection Engineer · Blue Team · Detection as Code</h3>
 
 ---
