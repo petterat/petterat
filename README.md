@@ -3,19 +3,19 @@
 
 ---
 
-## 🛡️ About Me
+##  About Me
 
 I'm a **Lead Detection Engineer** at [Atea](https://www.atea.com), one of Europe's leading IT infrastructure companies. My mission is to build, maintain, and continuously improve cyber threat detection coverage — for both Atea and our customers.
 
-- 🔭 I create and own our **Detection as Code** pipelines for Microsoft Sentinel and Splunk.
-- 🧠 Constantly researching **emerging threats**, attacker methodologies, and new technologies to keep detection coverage sharp
-- 🤝 I collaborate closely with **incident responders**, **SOC analysts**, and business stakeholders to align detection strategy with real-world risk
-- ⚡ I automate everything that *can* be automated — ensuring our work stays high-value, consistent, and efficient
-- 🔗 I work with **Tines** as our SOAR to orchestrate and automate response actions
+-  I create and own our **Detection as Code** pipelines for Microsoft Sentinel and Splunk.
+-  Constantly researching **emerging threats**, attacker methodologies, and new technologies to keep detection coverage sharp
+-  I collaborate closely with **incident responders**, **SOC analysts**, and business stakeholders to align detection strategy with real-world risk
+-  I automate everything that *can* be automated — ensuring our work stays high-value, consistent, and efficient
+-  I work with **Tines** as our SOAR to orchestrate and automate response actions
 
 ---
 
-## 🧰 Tools & Technologies
+##  Tools & Technologies
 
 <p align="left">
   <img src="https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Sentinel"/>
@@ -30,20 +30,20 @@ I'm a **Lead Detection Engineer** at [Atea](https://www.atea.com), one of Europe
 
 ---
 
-## 🔍 What I Do
+##  What I Do
 
 | Area | Description |
 |---|---|
-| 🎯 **Threat Detection** | Building and tuning detection rules across Sentinel & Splunk to identify real threats with high fidelity |
-| 🏗️ **Detection as Code** | Owning the full DaC pipeline — from rule authoring to automated deployment |
-| 🔬 **Threat Research** | Continuously studying new TTPs, attacker tooling, and emerging threat actors to inform detection strategy |
-| 🤖 **Automation & SOAR** | Designing Tines playbooks for automated response, triage, and enrichment to reduce analyst toil |
-| 🤝 **Collaboration** | Working with SOC analysts, IR teams, and business stakeholders to align our blue team posture |
-| 📈 **Continuous Improvement** | Iterating on detection quality, reducing noise, and driving measurable improvements in coverage |
+|  **Threat Detection** | Building and tuning detection rules across Sentinel & Splunk to identify real threats with high fidelity |
+|  **Detection as Code** | Owning the full DaC pipeline — from rule authoring to automated deployment |
+|  **Threat Research** | Continuously studying new TTPs, attacker tooling, and emerging threat actors to inform detection strategy |
+|  **Automation & SOAR** | Designing Tines playbooks for automated response, triage, and enrichment to reduce analyst toil |
+|  **Collaboration** | Working with SOC analysts, IR teams, and business stakeholders to align our blue team posture |
+|  **Continuous Improvement** | Iterating on detection quality, reducing noise, and driving measurable improvements in coverage |
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=petterat&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165"/>
